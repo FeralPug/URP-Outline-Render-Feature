@@ -6,7 +6,7 @@ using UnityEngine.Experimental.Rendering;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
-public class OutlineObjectsInLayerFeature : ScriptableRendererFeature
+public class OutlineMeshesInLayerFeature : ScriptableRendererFeature
 {
     //Profiler Names for Debugging
     const string StencilFillProfilerTag = "StencilFillProfile";
