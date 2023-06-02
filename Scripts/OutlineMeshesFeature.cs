@@ -13,7 +13,7 @@ public class OutlineObjectsInLayerFeature : ScriptableRendererFeature
     const string OutlineProfilerTag = "OutlineProfile";
     const string JumpFloodProfilerTag = "JumpFloodProfile";
 
-    //rt ids, Make sure shader uses these strings here for textures and samplers
+    //rt ids, make sure you use _MainTex in shader or use this names here explicitly
     private int stencilBufferID = Shader.PropertyToID("_StencilBuffer");
     private int silhouetteBufferID = Shader.PropertyToID("_SilhouetteBuffer");
     private int nearestPointID = Shader.PropertyToID("_NearestPoint");
