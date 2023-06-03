@@ -1,5 +1,5 @@
 # URP-Outline-Render-Feature
-Code for creating a render feature in Unity URP that adds outlines to meshes. It uses the Jump Flood Algorythm to do this so it should be pretty fast. However, the code is surely not perfect and could be improved. Besides cleaning things up a bit, you could use Render Layers instead of GameObject layers. I do not believe those were in Unity when I wrote this, or I was just not aware of them.
+Code for creating a render feature in Unity URP that adds outlines to meshes. It uses the Jump Flood Algorithm to do this so it should be pretty fast. However, the code is surely not perfect and could be improved. Besides cleaning things up a bit, you could use Render Layers instead of GameObject layers. I do not believe those were in Unity when I wrote this, or I was just not aware of them.
 
 ![Outlines_Moment](https://github.com/FeralPug/URP-Outline-Render-Feature/assets/72169728/a562e617-b870-49ba-8682-6713d9faef3e)
 
