@@ -3,6 +3,7 @@ Code for creating a render feature in Unity URP that adds outlines to meshes. It
 
 ![Outlines_Moment](https://github.com/FeralPug/URP-Outline-Render-Feature/assets/72169728/a562e617-b870-49ba-8682-6713d9faef3e)
 
+![image_002_0032](https://github.com/FeralPug/URP-Outline-Render-Feature/assets/72169728/436a5e21-23de-4539-8413-d8819a23466f)
 
 To get working follow the steps below
 
